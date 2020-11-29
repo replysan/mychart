@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - mychart-0.1.0.tgz
+    - https://github.com/replysan/mycharts/blob/master/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2020-11-29T07:38:40.055610235+05:30"
