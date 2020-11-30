@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  nginx-lego:
+  - apiVersion: v1
+    created: "2020-11-30T22:15:57.285478387+05:30"
+    deprecated: true
+    description: Chart for nginx-ingress-controller and kube-lego
+    digest: 3b9f4a4e254669f277281185b148e4631932d4004bf81023b33324cb4b9362de
+    keywords:
+    - kube-lego
+    - nginx-ingress-controller
+    - nginx
+    - letsencrypt
+    maintainers:
+    - email: jack.zampolin@gmail.com
+      name: Jack Zampolin
+    name: nginx-lego
+    sources:
+    - https://github.com/kubernetes/contrib/tree/master/ingress/controllers/nginx
+    - https://github.com/jetstack/kube-lego/tree/master/examples/nginx
+    urls:
+    - nginx-lego-0.3.1.tgz
+    version: 0.3.1
+generated: "2020-11-30T22:15:57.284969901+05:30"
